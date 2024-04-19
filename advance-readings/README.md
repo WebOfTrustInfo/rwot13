@@ -7,7 +7,7 @@ on either:
 - A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
 - A specific solution related to the web-of-trust that you'd like others to use or contribute to?
 
-If you will be attending Rebooting the Web of Trust September 2023 in Cologne, please upload your advance readings to this directory with a
+If you will be attending Rebooting the Web of Trust October 2024 in VEntura, please upload your advance readings to this directory with a
 pull request.
 
 ## Pull Request Submission
@@ -35,7 +35,9 @@ event. Please obtain your discount code as follows.
 - Email to [leadership@weboftrust.info](mailto:leadership@weboftrust.info), paste the link to the Pull Request and ask for the discount code
 
 Please make sure to make your Pull Request Submission BEFORE you buy
-the tickets for RWOT12, in order to apply your discount code.
+the tickets for RWOT13, in order to apply your discount code.
+
+Early bird deadline for paper submissions is August 2, 2024. Early bird ticketing deadline follows a week later on August 9, 2024. Tickets can be purchased at [Eventbrite](https://www.eventbrite.com/e/rebooting-the-web-of-trust-13-2024-ventura-tickets-881441755017).
 
 ## Primer Listing
 
