@@ -1,4 +1,4 @@
-# The Rebooting the Web of Trust Primer (v1.0.3: RWOT12)
+# The Rebooting the Web of Trust Primer (v1.0.3: RWOT13)
 
 ## Or: How Does it Work!?
 
