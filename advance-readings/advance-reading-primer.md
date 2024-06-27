@@ -8,7 +8,7 @@ The first step in preparing for RWOT is writing an advanced-reading paper. It's 
 
 An advance reading does not need to be intimidating. We've traditionally asked that it be just one or two pages long. Consider it a synopsis of a topic of interest. Many participants write longer papers, and that's not necessarily the best choice. Short, punchy papers will get read, will get people interested in the topic, and will leave lots of room for collaborative design at the actual workshop. 
 
-An advanced-reading paper might focus on your area of expertise, highlighting the information that you can offer to other workshop participants, but it can also be about something you're interested in, but don't know a lot about, highlighting information that you'd like to receive at the workshop.
+An advanced-reading paper might focus on your area of expertise, highlighting the information that you can offer to other workshop participants, but it can also be about something you're interested in, but don't know a lot about, highlighting information that you'd like to receive at the workshop. If an advanced-reading paper generates enough interest, it will influence the direction of the workshop by suggesting topics to discuss and solutions to consider.
 
 The best advanced-reading papers include some of the following:
 
