@@ -7,7 +7,9 @@ on either:
 - A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
 - A specific solution related to the web-of-trust that you'd like others to use or contribute to?
 
-If you will be attending Rebooting the Web of Trust October 2024 in VEntura, please upload your advance readings to this directory with a
+These advance readings can indicate what topics you're interested in and can also help to shape the week's discussion by suggesting topics of interest or even potential solutions.
+
+If you will be attending Rebooting the Web of Trust October 2024 in Ventura, please upload your advance readings to this directory with a
 pull request.
 
 ## Pull Request Submission
