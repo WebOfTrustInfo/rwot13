@@ -10,7 +10,7 @@ So how does it work? What should you expect in your four days at Rebooting the W
 
 ## Before the Workshop: Writing an Advance-Reading Paper
 
-Please read our [primer on advance readings](advance-readings-primer.md) so that you know what to write and what to read before the workshop!
+Please read our [primer on advance readings](advance-reading-primer.md) so that you know what to write and what to read before the workshop!
 
 ## Day One: Topic Paper Night
 
