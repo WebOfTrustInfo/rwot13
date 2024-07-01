@@ -8,9 +8,9 @@ Rebooting the Web of Trust (RWOT) is a design workshop whose goal is the product
 
 So how does it work? What should you expect in your four days at Rebooting the Web of Trust, and how will you get to a paper at the end?
 
-## Before the Workshop: Writing an Advanced-Reading Paper
+## Before the Workshop: Writing an Advance-Reading Paper
 
-Please read our [primer on advanced readings](https://github.com/WebOfTrustInfo/rwot11-netherlands/blob/master/topics-and-advance-readings/advanced-paper-primer.md) so that you know what to write and what to read before the workshop!
+Please read our [primer on advance readings](advance-readings-primer.md) so that you know what to write and what to read before the workshop!
 
 ## Day One: Topic Paper Night
 

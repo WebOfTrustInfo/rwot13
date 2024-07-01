@@ -1,16 +1,20 @@
-# The Advanced Reading Primer
+# The Advance Reading Primer
 
-Prior to attending the workshop you should write an advanced-reading paper and read the advanced readings written by others. Here's more on all of that:
+Prior to attending the workshop you should write an advance-reading paper and read the advance readings written by others.
 
-## Before the Workshop: Writing an Advanced-Reading Paper
+> It's an "advance" reading paper, as in "before the workshop", not an "advanced" reading paper: sophistication, technical depth, or other complexity is not necessarily required!
 
-The first step in preparing for RWOT is writing an advanced-reading paper. It's not actually required, as you can choose to pay for a more expensive membership without writing one, but it's highly recommended: it will help you to do a bit of preparation on a topic that's of interest to you, and it will signal that interest to other participants. Your paper will also help to introduce you to people as the workshop begins, and it will aid in generating discussion on web-of-trust topics.
+Here's more on all of that:
+ 
+## Before the Workshop: Writing an Advance-Reading Paper
+
+The first step in preparing for RWOT is writing an advance-reading paper. It's not actually required, as you can choose to pay for a more expensive membership without writing one, but it's highly recommended: it will help you to do a bit of preparation on a topic that's of interest to you, and it will signal that interest to other participants. Your paper will also help to introduce you to people as the workshop begins, and it will aid in generating discussion on web-of-trust topics.
 
 An advance reading does not need to be intimidating. We've traditionally asked that it be just one or two pages long. Consider it a synopsis of a topic of interest. Many participants write longer papers, and that's not necessarily the best choice. Short, punchy papers will get read, will get people interested in the topic, and will leave lots of room for collaborative design at the actual workshop. 
 
-An advanced-reading paper might focus on your area of expertise, highlighting the information that you can offer to other workshop participants, but it can also be about something you're interested in, but don't know a lot about, highlighting information that you'd like to receive at the workshop. If an advanced-reading paper generates enough interest, it will influence the direction of the workshop by suggesting topics to discuss and solutions to consider.
+An advance-reading paper might focus on your area of expertise, highlighting the information that you can offer to other workshop participants, but it can also be about something you're interested in, but don't know a lot about, highlighting information that you'd like to receive at the workshop. If an advance-reading paper generates enough interest, it will influence the direction of the workshop by suggesting topics to discuss and solutions to consider.
 
-The best advanced-reading papers include some of the following:
+The best advance-reading papers include some of the following:
 
 * A specific problem related to identity or trust; or
 * A specific critique of existing identity or trust systems; or
