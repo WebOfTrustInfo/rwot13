@@ -80,3 +80,4 @@ _Please also enter your paper alphabetically in the form:_
 ```
 * [Paper Name](link)
 ```
+* [DID Universal Resolver](./a-consortium-management-solution-for-decentralized-identifier-resolution.md)
