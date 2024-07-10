@@ -64,7 +64,15 @@ _Please add a level three header (`###`) for your paper's topic if it's not ther
    * One to two sentence synopsis or quote
    * #hashtags for topics
 ```
-  
+
+### DID  Universal Resolver
+
+[CMS: A Consortium Management Solution for Decentralized Identifier Resolution](./a-consortium-management-solution-for-decentralized-identifier-resolution.md)
+
+- by [Zhiping Li](lizhiping@caict.ac.cn), [Bo Zhang](zhangbo3@caict.ac.cn)
+- A Consortium Management Solution  based on DID universal  resolver for Decentralized Identifier Resolution
+- #did #universal resolve #smart contracts# ipfs #consortium-based management
+
 ## Alphabetical Listing
 
 _Please also enter your paper alphabetically in the form:_
