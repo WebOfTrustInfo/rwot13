@@ -65,13 +65,19 @@ _Please add a level three header (`###`) for your paper's topic if it's not ther
    * #hashtags for topics
 ```
 
-### DID  Universal Resolver
+### DID Universal Resolver
 
 [CMS: A Consortium Management Solution for Decentralized Identifier Resolution](./a-consortium-management-solution-for-decentralized-identifier-resolution.md)
 
-- by [Zhiping Li](lizhiping@caict.ac.cn), [Bo Zhang](zhangbo3@caict.ac.cn)
+- by [Zhiping Li](mailto:lizhiping@caict.ac.cn), [Bo Zhang](mailto:zhangbo3@caict.ac.cn)
 - A Consortium Management Solution  based on DID universal  resolver for Decentralized Identifier Resolution
 - #did #universal resolve #smart contracts# ipfs #consortium-based management
+
+### [Self-Describing DID Methods](self-describing-did-methods.md)
+
+* by [Kevin Dean](mailto:kevin@legreq.com)
+* DID method names are prone to collision and there's no mechanism to distinguish between two DID methods with the same name. Version control is also an issue, as a significant change to a DID method's protocol may warrant a new name. This paper outlines a collision-resistant naming convention and a version management protocol to address these issues.
+* #did #resolver #versioning #ipfs
 
 ## Alphabetical Listing
 
@@ -81,3 +87,4 @@ _Please also enter your paper alphabetically in the form:_
 * [Paper Name](link)
 ```
 * [CMS: A Consortium Management Solution for Decentralized Identifier Resolution](./a-consortium-management-solution-for-decentralized-identifier-resolution.md)
+* [Self-Describing DID Methods](self-describing-did-methods.md)
