@@ -7,19 +7,12 @@ Ventura, California in the USA, from Monday, October 7th through 11th,
 
 Unfortunately, [RWOT13 was cancelled](https://www.weboftrust.info/rwot%20workshop/rwot13-cancelled/). See our [papers listing](https://www.weboftrust.info/papers/) for all of the great papers produced at prior workshops.
 
-The goal of the workshop is to generate five technical white papers
-and/or proposals on topics decided by the group that would have the
-greatest impact on the future.
-
 Please [sign up for our mailing
-list](https://www.weboftrust.info/subscribe/) to be informed as the
-workshop is finalized.
+list](https://www.weboftrust.info/subscribe/) to be informed of future workshops.
 
 ## Advance Readings
 
 Please see the [Advance Readings directory](./advance-readings) for all the current papers (and how to upload yours). More information can be found in the [Advance Reading Primer](./advance-readings/advance-reading-primer.md).
-
-Advance Readings give discounted prices for RWOT. Early bird deadline for paper submissions is August 2, 2024. Early bird ticketing deadline follows a week later on August 9, 2024. After submitting your paper (or if you prefer not to), you can register at [Eventbrite](https://www.eventbrite.com/e/rebooting-the-web-of-trust-13-2024-ventura-tickets-881441755017).
 
 ## Complete Rebooting the Web of Trust Listing
 
