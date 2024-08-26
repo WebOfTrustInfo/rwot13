@@ -1,9 +1,11 @@
-# Rebooting the Web of Trust XIII: Ventura (October 7-11, 2024)
+# Rebooting the Web of Trust XIII: Ventura (October 7-11, 2024) [CANCELLED]
 
 This repository contains documents related to RWOT13, the thirteenth
-Rebooting the Web of Trust design workshop, which will be held in
+Rebooting the Web of Trust design workshop, which was to be held in
 Ventura, California in the USA, from Monday, October 7th through 11th,
 2024.
+
+Unfortunately, [RWOT13 was cancelled](https://www.weboftrust.info/rwot%20workshop/rwot13-cancelled/). See our [papers listing](https://www.weboftrust.info/papers/) for all of the great papers produced at prior workshops.
 
 The goal of the workshop is to generate five technical white papers
 and/or proposals on topics decided by the group that would have the
