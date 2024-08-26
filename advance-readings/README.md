@@ -12,34 +12,7 @@ These advance readings can indicate what topics you're interested in and can als
 If you will be attending Rebooting the Web of Trust October 2024 in Ventura, please upload your advance readings to this directory with a
 pull request.
 
-## Pull Request Submission
-
-To add a paper, create a pull request to this repo with your
-contribution (preferably as an .md file, but if you can't, as a PDF),
-along with updates to the README.md in this folder. Please also
-include a byline with contact information in the paper itself.
-
-Please also enter your paper _twice_ in this README file, once in the
-topical listing (adding a new category describing your topic, if
-necessary) and one in the alphabetical listing. Please be sure to
-include the full URL for your paper in the README, so that we can copy
-it to the main page URL and have it still correctly link.
-
-If you don't know how to submit a pull request, please instead submit an issue.
-
-## Request RWOT13 discount code
-
-To those who have submitted an Advance Readings paper, RWOT13 offers a
-steep discount on the ticket price for participation to the
-event. Please obtain your discount code as follows.
-
-- Copy the link to your Pull Request (see previous section)
-- Email to [leadership@weboftrust.info](mailto:leadership@weboftrust.info), paste the link to the Pull Request and ask for the discount code
-
-Please make sure to make your Pull Request Submission BEFORE you buy
-the tickets for RWOT13, in order to apply your discount code.
-
-Early bird deadline for paper submissions is August 2, 2024. Early bird ticketing deadline follows a week later on August 9, 2024. Tickets can be purchased at [Eventbrite](https://www.eventbrite.com/e/rebooting-the-web-of-trust-13-2024-ventura-tickets-881441755017).
+Unfortunately, the workshop [has been cancelled](https://www.weboftrust.info/rwot%20workshop/rwot13-cancelled/). We are maintaining this page to list the primers and the advance readings already submitted.
 
 ## Primer Listing
 
